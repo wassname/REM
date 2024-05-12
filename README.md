@@ -1,3 +1,12 @@
+
+Fork to try a hypothesis:
+- Pretrained LLM's, contain world understanding that can accelerate world model training.
+
+I will test this on craftax, a new env that's fast, ranger from easy to hard, and has a symbolic representation of the world. This means we can skip the vision model and tokenizer
+
+Follows on from my work in https://github.com/wassname/iris_bigvae.git
+
+Original README.md:
 # Improving Token-Based World Models with Parallel Observation Prediction
 Lior Cohen, Kaixin Wang, Bingyi Kang, Shie Mannor
 
